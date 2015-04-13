@@ -1,0 +1,1 @@
+var Meetup = require('../models/object');
